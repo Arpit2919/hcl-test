@@ -1,0 +1,20 @@
+# Python 3.12 (the Docker image uses python:3.12-slim)
+fastapi==0.143.0
+uvicorn[standard]==0.53.0
+pydantic==2.13.5
+python-dotenv==1.2.3
+python-multipart==0.0.32
+httpx==0.28.1
+requests==2.34.2
+pandas==3.0.5
+numpy==2.5.3
+ortools==9.15.6755
+PuLP==2.9.0
+plotly==7.1.0
+streamlit==1.65.0
+langgraph==1.2.14
+langchain-core==1.6.9
+langchain-google-genai==4.4.1
+langchain-anthropic==1.7.5
+langchain-openai==1.7.0
+pytest==9.1.1
